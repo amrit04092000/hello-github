@@ -9,3 +9,7 @@ sourav shukla
 gourav thakur
 shubham 
 sejal
+now i m codetodo adding some more information regarding this file
+we are now try to learn github 
+fork 
+and pull request
