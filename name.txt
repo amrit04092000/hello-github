@@ -1,5 +1,7 @@
 now i m going to add some name 
+now i am going to add surname in my file
 Amrit mishra 
-anmol
-John
-sourav
+anmol mishra
+John cena
+sourav shukla
+gourav thakur
